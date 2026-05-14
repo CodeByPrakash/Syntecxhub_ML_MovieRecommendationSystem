@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CineMatch - Movie Recommender System
 
 A beautifully designed web application for discovering movie recommendations with a cinema-inspired dark luxury aesthetic, featuring real movie posters from TMDb.
@@ -307,3 +308,6 @@ MIT License - Feel free to use and modify for your projects!
 ---
 
 **Happy Watching! 🍿**
+=======
+# Syntecxhub_ML_MovieRecommendationSystem
+>>>>>>> a441ab50058d5cbe89b4c707122e52e4583607dd
