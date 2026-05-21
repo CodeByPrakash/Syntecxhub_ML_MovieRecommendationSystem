@@ -4,6 +4,7 @@ A beautifully designed web application for discovering movie recommendations wit
 
 ## Preview
 ![Preview](https://github.com/CodeByPrakash/Syntecxhub_ML_MovieRecommendationSystem/raw/main/preview.png)
+![Preview](https://github.com/CodeByPrakash/Syntecxhub_ML_MovieRecommendationSystem/raw/main/preview2.png)
 ## 🎬 Features
 
 - **Smart Search**: Real-time autocomplete as you type
