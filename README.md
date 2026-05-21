@@ -2,6 +2,8 @@
 
 A beautifully designed web application for discovering movie recommendations with a cinema-inspired dark luxury aesthetic, featuring real movie posters from TMDb.
 
+## Preview
+![Preview](https://github.com/CodeByPrakash/Syntecxhub_ML_MovieRecommendationSystem/raw/main/preview.png)
 ## 🎬 Features
 
 - **Smart Search**: Real-time autocomplete as you type
